@@ -1,0 +1,3 @@
+displayName = Arknights Music Mod
+author = Arknights Mod Team
+version = 0.1
