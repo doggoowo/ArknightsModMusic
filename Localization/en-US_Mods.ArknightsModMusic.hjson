@@ -1,1 +1,155 @@
+Configs: {
+	MusicConfig: {
+		DisplayName: Music Config
 
+		EnableArknightsForestDaytime: {
+			Label: Enable Arknights Forest Daytime
+			Tooltip: ""
+		}
+
+		EnableArknightsForestNighttime: {
+			Label: Enable Arknights Forest Nighttime
+			Tooltip: ""
+		}
+
+		EnableDesertDay: {
+			Label: Enable Desert Day
+			Tooltip: ""
+		}
+
+		EnableDesertNight: {
+			Label: Enable Desert Night
+			Tooltip: ""
+		}
+
+		EnableDesertUnderground: {
+			Label: Enable Desert Underground
+			Tooltip: ""
+		}
+
+		EnableJungleDay: {
+			Label: Enable Jungle Day
+			Tooltip: ""
+		}
+
+		EnableJungleNight: {
+			Label: Enable Jungle Night
+			Tooltip: ""
+		}
+
+		EnableJungleUnderground: {
+			Label: Enable Jungle Underground
+			Tooltip: ""
+		}
+
+		EnableSnowDay: {
+			Label: Enable Snow Day
+			Tooltip: ""
+		}
+
+		EnableSnowNight: {
+			Label: Enable Snow Night
+			Tooltip: ""
+		}
+
+		EnableSnowUnderground: {
+			Label: Enable Snow Underground
+			Tooltip: ""
+		}
+
+		EnableHallowDay: {
+			Label: Enable Hallow Day
+			Tooltip: ""
+		}
+
+		EnableHallowNight: {
+			Label: Enable Hallow Night
+			Tooltip: ""
+		}
+
+		EnableHallowUnderground: {
+			Label: Enable Hallow Underground
+			Tooltip: ""
+		}
+
+		EnableCorruptSurface: {
+			Label: Enable Corrupt Surface
+			Tooltip: ""
+		}
+
+		EnableCorruptUnderground: {
+			Label: Enable Corrupt Underground
+			Tooltip: ""
+		}
+
+		EnableSpaceDay: {
+			Label: Enable Space Day
+			Tooltip: ""
+		}
+
+		EnableSpaceNight: {
+			Label: Enable Space Night
+			Tooltip: ""
+		}
+
+		EnableHell: {
+			Label: Enable Hell
+			Tooltip: ""
+		}
+
+		EnableArknightsCorruptedOceanDaytime: {
+			Label: Enable Arknights Corrupted Ocean Daytime
+			Tooltip: ""
+		}
+
+		EnableArknightsCorruptedOceanNighttime: {
+			Label: Enable Arknights Corrupted Ocean Nighttime
+			Tooltip: ""
+		}
+
+		EnableArknightsCrimsonOceanDaytime: {
+			Label: Enable Arknights Crimson Ocean Daytime
+			Tooltip: ""
+		}
+
+		EnableArknightsCrimsonOceanNighttime: {
+			Label: Enable Arknights Crimson Ocean Nighttime
+			Tooltip: ""
+		}
+
+		EnableArknightsHallowedOceanDaytime: {
+			Label: Enable Arknights Hallowed Ocean Daytime
+			Tooltip: ""
+		}
+
+		EnableArknightsHallowedOceanNighttime: {
+			Label: Enable Arknights Hallowed Ocean Nighttime
+			Tooltip: ""
+		}
+
+		EnableArknightsOceanDaytime: {
+			Label: Enable Arknights Ocean Daytime
+			Tooltip: ""
+		}
+
+		EnableArknightsOceanNighttime: {
+			Label: Enable Arknights Ocean Nighttime
+			Tooltip: ""
+		}
+
+		EnableMeteor: {
+			Label: Enable Meteor
+			Tooltip: ""
+		}
+
+		EnableGraveyard: {
+			Label: Enable Graveyard
+			Tooltip: ""
+		}
+
+		EnableBloodMoon: {
+			Label: Enable Blood Moon
+			Tooltip: ""
+		}
+	}
+}
