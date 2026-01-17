@@ -1,3 +1,4 @@
 displayName = Arknights Music Mod
 author = Arknights Mod Team
 version = 0.1
+buildIgnore = *.csproj, *.sln, *.suo, *.user, *.des, *.md, *.gitignore, obj\*, bin\*, .git\*, .vs\*, ffmpeg\*, convert\*
