@@ -1,1 +1,2 @@
-Music Mod for Arknights Mod
+这是一个明日方舟的音乐模组，为游戏的提供更多样化的明日方舟音乐。相同环境的不同条件可以装载多首音乐。
+如果对明日方舟的其他游玩内容感兴趣，也可以去创意工坊订阅我们的 Arknights mod。加载本mod无需提前加载Arknights mod。
