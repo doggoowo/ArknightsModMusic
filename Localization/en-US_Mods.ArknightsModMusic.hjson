@@ -1,5 +1,5 @@
 Configs: {
-	MusicConfig: {
+	MusicConfigDetailed: {
 		DisplayName: Music Config
 
 		EnableArknightsForestDaytime: {
@@ -24,6 +24,11 @@ Configs: {
 
 		EnableDesertUnderground: {
 			Label: Enable Desert Underground
+			Tooltip: ""
+		}
+
+		EnableDesert: {
+			Label: Enable Desert
 			Tooltip: ""
 		}
 
@@ -149,6 +154,1128 @@ Configs: {
 
 		EnableBloodMoon: {
 			Label: Enable Blood Moon
+			Tooltip: ""
+		}
+
+		Headers: {
+			Biomes: Biomes Header
+			Events: Events Header
+			Bosses: Bosses Header
+			Misc: Misc Header
+		}
+
+		EnableOverworldDay: {
+			Label: Enable Overworld Day
+			Tooltip: ""
+		}
+
+		EnableOverworldNight: {
+			Label: Enable Overworld Night
+			Tooltip: ""
+		}
+
+		EnableTownDay: {
+			Label: Enable Town Day
+			Tooltip: ""
+		}
+
+		EnableTownNight: {
+			Label: Enable Town Night
+			Tooltip: ""
+		}
+
+		EnableIceDay: {
+			Label: Enable Ice Day
+			Tooltip: ""
+		}
+
+		EnableIceNight: {
+			Label: Enable Ice Night
+			Tooltip: ""
+		}
+
+		EnableIceUnderground: {
+			Label: Enable Ice Underground
+			Tooltip: ""
+		}
+
+		EnableIce: {
+			Label: Enable Ice
+			Tooltip: ""
+		}
+
+		EnableHallowedOceanDay: {
+			Label: Enable Hallowed Ocean Day
+			Tooltip: ""
+		}
+
+		EnableHallowedOceanNight: {
+			Label: Enable Hallowed Ocean Night
+			Tooltip: ""
+		}
+
+		EnableHallow: {
+			Label: Enable Hallow
+			Tooltip: ""
+		}
+
+		EnableCorruptedOceanDay: {
+			Label: Enable Corrupted Ocean Day
+			Tooltip: ""
+		}
+
+		EnableCorruptedOceanNight: {
+			Label: Enable Corrupted Ocean Night
+			Tooltip: ""
+		}
+
+		EnableCrimsonSurface: {
+			Label: Enable Crimson Surface
+			Tooltip: ""
+		}
+
+		EnableCrimsonUnderground: {
+			Label: Enable Crimson Underground
+			Tooltip: ""
+		}
+
+		EnableCrimsonOceanDay: {
+			Label: Enable Crimson Ocean Day
+			Tooltip: ""
+		}
+
+		EnableCrimsonOceanNight: {
+			Label: Enable Crimson Ocean Night
+			Tooltip: ""
+		}
+
+		EnableCrimson: {
+			Label: Enable Crimson
+			Tooltip: ""
+		}
+
+		EnableUnderworld: {
+			Label: Enable Underworld
+			Tooltip: ""
+		}
+
+		EnableOceanDay: {
+			Label: Enable Ocean Day
+			Tooltip: ""
+		}
+
+		EnableOceanNight: {
+			Label: Enable Ocean Night
+			Tooltip: ""
+		}
+
+		EnableWindyDays: {
+			Label: Enable Windy Days
+			Tooltip: ""
+		}
+
+		EnableRain: {
+			Label: Enable Rain
+			Tooltip: ""
+		}
+
+		EnableSlimeRain: {
+			Label: Enable Slime Rain
+			Tooltip: ""
+		}
+
+		EnableAether: {
+			Label: Enable Aether
+			Tooltip: ""
+		}
+
+		EnableCorruption: {
+			Label: Enable Corruption
+			Tooltip: ""
+		}
+
+		EnableDungeon: {
+			Label: Enable Dungeon
+			Tooltip: ""
+		}
+
+		EnableLihzahrd: {
+			Label: Enable Lihzahrd
+			Tooltip: ""
+		}
+
+		EnableMushrooms: {
+			Label: Enable Mushrooms
+			Tooltip: ""
+		}
+
+		EnableUnderground: {
+			Label: Enable Underground
+			Tooltip: ""
+		}
+
+		EnableUndergroundCorruption: {
+			Label: Enable Underground Corruption
+			Tooltip: ""
+		}
+
+		EnableUndergroundCrimson: {
+			Label: Enable Underground Crimson
+			Tooltip: ""
+		}
+
+		EnableUndergroundDesert: {
+			Label: Enable Underground Desert
+			Tooltip: ""
+		}
+
+		EnableUndergroundHallow: {
+			Label: Enable Underground Hallow
+			Tooltip: ""
+		}
+
+		EnableUndergroundIce: {
+			Label: Enable Underground Ice
+			Tooltip: ""
+		}
+
+		EnableUndergroundJungle: {
+			Label: Enable Underground Jungle
+			Tooltip: ""
+		}
+
+		EnableEclipse: {
+			Label: Enable Eclipse
+			Tooltip: ""
+		}
+
+		EnableEerie: {
+			Label: Enable Eerie
+			Tooltip: ""
+		}
+
+		EnableFrostMoon: {
+			Label: Enable Frost Moon
+			Tooltip: ""
+		}
+
+		EnableGoblinArmy: {
+			Label: Enable Goblin Army
+			Tooltip: ""
+		}
+
+		EnableHighWind: {
+			Label: Enable High Wind
+			Tooltip: ""
+		}
+
+		EnableLunarEvent: {
+			Label: Enable Lunar Event
+			Tooltip: ""
+		}
+
+		EnableMartianMadness: {
+			Label: Enable Martian Madness
+			Tooltip: ""
+		}
+
+		EnableMorningRain: {
+			Label: Enable Morning Rain
+			Tooltip: ""
+		}
+
+		EnableOldOnesArmy: {
+			Label: Enable Old Ones Army
+			Tooltip: ""
+		}
+
+		EnablePirateInvasion: {
+			Label: Enable Pirate Invasion
+			Tooltip: ""
+		}
+
+		EnablePumpkinMoon: {
+			Label: Enable Pumpkin Moon
+			Tooltip: ""
+		}
+
+		EnableSandstorm: {
+			Label: Enable Sandstorm
+			Tooltip: ""
+		}
+
+		EnableStorm: {
+			Label: Enable Storm
+			Tooltip: ""
+		}
+
+		EnableBoss1: {
+			Label: Enable Boss1
+			Tooltip: ""
+		}
+
+		EnableBoss2: {
+			Label: Enable Boss2
+			Tooltip: ""
+		}
+
+		EnableBoss3: {
+			Label: Enable Boss3
+			Tooltip: ""
+		}
+
+		EnableDeerclops: {
+			Label: Enable Deerclops
+			Tooltip: ""
+		}
+
+		EnableDukeFishron: {
+			Label: Enable Duke Fishron
+			Tooltip: ""
+		}
+
+		EnableEmpressOfLight: {
+			Label: Enable Empress Of Light
+			Tooltip: ""
+		}
+
+		EnableGolem: {
+			Label: Enable Golem
+			Tooltip: ""
+		}
+
+		EnableMoonLord: {
+			Label: Enable Moon Lord
+			Tooltip: ""
+		}
+
+		EnablePlantera: {
+			Label: Enable Plantera
+			Tooltip: ""
+		}
+
+		EnableQueenBee: {
+			Label: Enable Queen Bee
+			Tooltip: ""
+		}
+
+		EnableQueenSlime: {
+			Label: Enable Queen Slime
+			Tooltip: ""
+		}
+
+		EnableCredits: {
+			Label: Enable Credits
+			Tooltip: ""
+		}
+
+		EnableDayRemix: {
+			Label: Enable Day Remix
+			Tooltip: ""
+		}
+
+		EnableDrunkWorldGen: {
+			Label: Enable Drunk World Gen
+			Tooltip: ""
+		}
+
+		EnableTitle: {
+			Label: Enable Title
+			Tooltip: ""
+		}
+
+		EnableTitleLegacy: {
+			Label: Enable Title Legacy
+			Tooltip: ""
+		}
+	}
+
+	MusicConfig: {
+		DisplayName: Music Config
+
+		EnableModMusic: {
+			Label: Enable Mod Music
+			Tooltip: ""
+		}
+
+		PlaybackMode: {
+			Label: Playback Mode
+			Tooltip: ""
+		}
+
+		EnableDefaultModMusic: {
+			Label: Enable Default Mod Music
+			Tooltip: ""
+		}
+
+		EnableOtherworldlyModMusic: {
+			Label: Enable Otherworldly Mod Music
+			Tooltip: ""
+		}
+	}
+
+	PlaybackMode: {
+		Tooltip: ""
+
+		Random: {
+			Label: Random
+			Tooltip: ""
+		}
+
+		Sequential: {
+			Label: Sequential
+			Tooltip: ""
+		}
+	}
+
+	DefaultDetailedConfig: {
+		DisplayName: Default Detailed Config
+
+		Headers: {
+			Biomes: Biomes Header
+			Events: Events Header
+			Bosses: Bosses Header
+			Misc: Misc Header
+		}
+
+		EnableOverworldDay: {
+			Label: Enable Overworld Day
+			Tooltip: ""
+		}
+
+		EnableOverworldNight: {
+			Label: Enable Overworld Night
+			Tooltip: ""
+		}
+
+		EnableAether: {
+			Label: Enable Aether
+			Tooltip: ""
+		}
+
+		EnableCorruption: {
+			Label: Enable Corruption
+			Tooltip: ""
+		}
+
+		EnableCrimson: {
+			Label: Enable Crimson
+			Tooltip: ""
+		}
+
+		EnableDesert: {
+			Label: Enable Desert
+			Tooltip: ""
+		}
+
+		EnableDungeon: {
+			Label: Enable Dungeon
+			Tooltip: ""
+		}
+
+		EnableGraveyard: {
+			Label: Enable Graveyard
+			Tooltip: ""
+		}
+
+		EnableHallow: {
+			Label: Enable Hallow
+			Tooltip: ""
+		}
+
+		EnableIce: {
+			Label: Enable Ice
+			Tooltip: ""
+		}
+
+		EnableJungleDay: {
+			Label: Enable Jungle Day
+			Tooltip: ""
+		}
+
+		EnableJungleNight: {
+			Label: Enable Jungle Night
+			Tooltip: ""
+		}
+
+		EnableLihzahrd: {
+			Label: Enable Lihzahrd
+			Tooltip: ""
+		}
+
+		EnableMushrooms: {
+			Label: Enable Mushrooms
+			Tooltip: ""
+		}
+
+		EnableOceanDay: {
+			Label: Enable Ocean Day
+			Tooltip: ""
+		}
+
+		EnableOceanNight: {
+			Label: Enable Ocean Night
+			Tooltip: ""
+		}
+
+		EnableSpaceDay: {
+			Label: Enable Space Day
+			Tooltip: ""
+		}
+
+		EnableSpaceNight: {
+			Label: Enable Space Night
+			Tooltip: ""
+		}
+
+		EnableTownDay: {
+			Label: Enable Town Day
+			Tooltip: ""
+		}
+
+		EnableTownNight: {
+			Label: Enable Town Night
+			Tooltip: ""
+		}
+
+		EnableUnderground: {
+			Label: Enable Underground
+			Tooltip: ""
+		}
+
+		EnableUndergroundCorruption: {
+			Label: Enable Underground Corruption
+			Tooltip: ""
+		}
+
+		EnableUndergroundCrimson: {
+			Label: Enable Underground Crimson
+			Tooltip: ""
+		}
+
+		EnableUndergroundDesert: {
+			Label: Enable Underground Desert
+			Tooltip: ""
+		}
+
+		EnableUndergroundHallow: {
+			Label: Enable Underground Hallow
+			Tooltip: ""
+		}
+
+		EnableUndergroundIce: {
+			Label: Enable Underground Ice
+			Tooltip: ""
+		}
+
+		EnableUndergroundJungle: {
+			Label: Enable Underground Jungle
+			Tooltip: ""
+		}
+
+		EnableUnderworld: {
+			Label: Enable Underworld
+			Tooltip: ""
+		}
+
+		EnableEclipse: {
+			Label: Enable Eclipse
+			Tooltip: ""
+		}
+
+		EnableEerie: {
+			Label: Enable Eerie
+			Tooltip: ""
+		}
+
+		EnableFrostMoon: {
+			Label: Enable Frost Moon
+			Tooltip: ""
+		}
+
+		EnableGoblinArmy: {
+			Label: Enable Goblin Army
+			Tooltip: ""
+		}
+
+		EnableHighWind: {
+			Label: Enable High Wind
+			Tooltip: ""
+		}
+
+		EnableLunarEvent: {
+			Label: Enable Lunar Event
+			Tooltip: ""
+		}
+
+		EnableMartianMadness: {
+			Label: Enable Martian Madness
+			Tooltip: ""
+		}
+
+		EnableMorningRain: {
+			Label: Enable Morning Rain
+			Tooltip: ""
+		}
+
+		EnableOldOnesArmy: {
+			Label: Enable Old Ones Army
+			Tooltip: ""
+		}
+
+		EnablePirateInvasion: {
+			Label: Enable Pirate Invasion
+			Tooltip: ""
+		}
+
+		EnablePumpkinMoon: {
+			Label: Enable Pumpkin Moon
+			Tooltip: ""
+		}
+
+		EnableRain: {
+			Label: Enable Rain
+			Tooltip: ""
+		}
+
+		EnableSandstorm: {
+			Label: Enable Sandstorm
+			Tooltip: ""
+		}
+
+		EnableSlimeRain: {
+			Label: Enable Slime Rain
+			Tooltip: ""
+		}
+
+		EnableStorm: {
+			Label: Enable Storm
+			Tooltip: ""
+		}
+
+		EnableBoss1: {
+			Label: Enable Boss1
+			Tooltip: ""
+		}
+
+		EnableBoss2: {
+			Label: Enable Boss2
+			Tooltip: ""
+		}
+
+		EnableBoss3: {
+			Label: Enable Boss3
+			Tooltip: ""
+		}
+
+		EnableDeerclops: {
+			Label: Enable Deerclops
+			Tooltip: ""
+		}
+
+		EnableDukeFishron: {
+			Label: Enable Duke Fishron
+			Tooltip: ""
+		}
+
+		EnableEmpressOfLight: {
+			Label: Enable Empress Of Light
+			Tooltip: ""
+		}
+
+		EnableGolem: {
+			Label: Enable Golem
+			Tooltip: ""
+		}
+
+		EnableMoonLord: {
+			Label: Enable Moon Lord
+			Tooltip: ""
+		}
+
+		EnablePlantera: {
+			Label: Enable Plantera
+			Tooltip: ""
+		}
+
+		EnableQueenBee: {
+			Label: Enable Queen Bee
+			Tooltip: ""
+		}
+
+		EnableQueenSlime: {
+			Label: Enable Queen Slime
+			Tooltip: ""
+		}
+
+		EnableCredits: {
+			Label: Enable Credits
+			Tooltip: ""
+		}
+
+		EnableDayRemix: {
+			Label: Enable Day Remix
+			Tooltip: ""
+		}
+
+		EnableDrunkWorldGen: {
+			Label: Enable Drunk World Gen
+			Tooltip: ""
+		}
+
+		EnableTitle: {
+			Label: Enable Title
+			Tooltip: ""
+		}
+
+		EnableTitleLegacy: {
+			Label: Enable Title Legacy
+			Tooltip: ""
+		}
+	}
+
+	OtherworldlyDetailedConfig: {
+		DisplayName: Otherworldly Detailed Config
+
+		Headers: {
+			Biomes: Biomes Header
+			Events: Events Header
+			Bosses: Bosses Header
+			Misc: Misc Header
+		}
+
+		EnableOverworldDay: {
+			Label: Enable Overworld Day
+			Tooltip: ""
+		}
+
+		EnableOverworldNight: {
+			Label: Enable Overworld Night
+			Tooltip: ""
+		}
+
+		EnableAether: {
+			Label: Enable Aether
+			Tooltip: ""
+		}
+
+		EnableCorruption: {
+			Label: Enable Corruption
+			Tooltip: ""
+		}
+
+		EnableCrimson: {
+			Label: Enable Crimson
+			Tooltip: ""
+		}
+
+		EnableDesert: {
+			Label: Enable Desert
+			Tooltip: ""
+		}
+
+		EnableDungeon: {
+			Label: Enable Dungeon
+			Tooltip: ""
+		}
+
+		EnableGraveyard: {
+			Label: Enable Graveyard
+			Tooltip: ""
+		}
+
+		EnableHallow: {
+			Label: Enable Hallow
+			Tooltip: ""
+		}
+
+		EnableIce: {
+			Label: Enable Ice
+			Tooltip: ""
+		}
+
+		EnableJungleDay: {
+			Label: Enable Jungle Day
+			Tooltip: ""
+		}
+
+		EnableJungleNight: {
+			Label: Enable Jungle Night
+			Tooltip: ""
+		}
+
+		EnableLihzahrd: {
+			Label: Enable Lihzahrd
+			Tooltip: ""
+		}
+
+		EnableMushrooms: {
+			Label: Enable Mushrooms
+			Tooltip: ""
+		}
+
+		EnableOceanDay: {
+			Label: Enable Ocean Day
+			Tooltip: ""
+		}
+
+		EnableOceanNight: {
+			Label: Enable Ocean Night
+			Tooltip: ""
+		}
+
+		EnableSpaceDay: {
+			Label: Enable Space Day
+			Tooltip: ""
+		}
+
+		EnableSpaceNight: {
+			Label: Enable Space Night
+			Tooltip: ""
+		}
+
+		EnableTownDay: {
+			Label: Enable Town Day
+			Tooltip: ""
+		}
+
+		EnableTownNight: {
+			Label: Enable Town Night
+			Tooltip: ""
+		}
+
+		EnableUnderground: {
+			Label: Enable Underground
+			Tooltip: ""
+		}
+
+		EnableUndergroundCorruption: {
+			Label: Enable Underground Corruption
+			Tooltip: ""
+		}
+
+		EnableUndergroundCrimson: {
+			Label: Enable Underground Crimson
+			Tooltip: ""
+		}
+
+		EnableUndergroundDesert: {
+			Label: Enable Underground Desert
+			Tooltip: ""
+		}
+
+		EnableUndergroundHallow: {
+			Label: Enable Underground Hallow
+			Tooltip: ""
+		}
+
+		EnableUndergroundIce: {
+			Label: Enable Underground Ice
+			Tooltip: ""
+		}
+
+		EnableUndergroundJungle: {
+			Label: Enable Underground Jungle
+			Tooltip: ""
+		}
+
+		EnableUnderworld: {
+			Label: Enable Underworld
+			Tooltip: ""
+		}
+
+		EnableEclipse: {
+			Label: Enable Eclipse
+			Tooltip: ""
+		}
+
+		EnableEerie: {
+			Label: Enable Eerie
+			Tooltip: ""
+		}
+
+		EnableFrostMoon: {
+			Label: Enable Frost Moon
+			Tooltip: ""
+		}
+
+		EnableGoblinArmy: {
+			Label: Enable Goblin Army
+			Tooltip: ""
+		}
+
+		EnableHighWind: {
+			Label: Enable High Wind
+			Tooltip: ""
+		}
+
+		EnableLunarEvent: {
+			Label: Enable Lunar Event
+			Tooltip: ""
+		}
+
+		EnableMartianMadness: {
+			Label: Enable Martian Madness
+			Tooltip: ""
+		}
+
+		EnableMorningRain: {
+			Label: Enable Morning Rain
+			Tooltip: ""
+		}
+
+		EnableOldOnesArmy: {
+			Label: Enable Old Ones Army
+			Tooltip: ""
+		}
+
+		EnablePirateInvasion: {
+			Label: Enable Pirate Invasion
+			Tooltip: ""
+		}
+
+		EnablePumpkinMoon: {
+			Label: Enable Pumpkin Moon
+			Tooltip: ""
+		}
+
+		EnableRain: {
+			Label: Enable Rain
+			Tooltip: ""
+		}
+
+		EnableSandstorm: {
+			Label: Enable Sandstorm
+			Tooltip: ""
+		}
+
+		EnableSlimeRain: {
+			Label: Enable Slime Rain
+			Tooltip: ""
+		}
+
+		EnableStorm: {
+			Label: Enable Storm
+			Tooltip: ""
+		}
+
+		EnableBoss1: {
+			Label: Enable Boss1
+			Tooltip: ""
+		}
+
+		EnableBoss2: {
+			Label: Enable Boss2
+			Tooltip: ""
+		}
+
+		EnableBoss3: {
+			Label: Enable Boss3
+			Tooltip: ""
+		}
+
+		EnableDeerclops: {
+			Label: Enable Deerclops
+			Tooltip: ""
+		}
+
+		EnableDukeFishron: {
+			Label: Enable Duke Fishron
+			Tooltip: ""
+		}
+
+		EnableEmpressOfLight: {
+			Label: Enable Empress Of Light
+			Tooltip: ""
+		}
+
+		EnableGolem: {
+			Label: Enable Golem
+			Tooltip: ""
+		}
+
+		EnableMoonLord: {
+			Label: Enable Moon Lord
+			Tooltip: ""
+		}
+
+		EnablePlantera: {
+			Label: Enable Plantera
+			Tooltip: ""
+		}
+
+		EnableQueenBee: {
+			Label: Enable Queen Bee
+			Tooltip: ""
+		}
+
+		EnableQueenSlime: {
+			Label: Enable Queen Slime
+			Tooltip: ""
+		}
+
+		EnableCredits: {
+			Label: Enable Credits
+			Tooltip: ""
+		}
+
+		EnableDayRemix: {
+			Label: Enable Day Remix
+			Tooltip: ""
+		}
+
+		EnableDrunkWorldGen: {
+			Label: Enable Drunk World Gen
+			Tooltip: ""
+		}
+
+		EnableTitle: {
+			Label: Enable Title
+			Tooltip: ""
+		}
+
+		EnableTitleLegacy: {
+			Label: Enable Title Legacy
+			Tooltip: ""
+		}
+
+		EnableOWOverworldDay: {
+			Label: Enable O W Overworld Day
+			Tooltip: ""
+		}
+
+		EnableOWOverworldNight: {
+			Label: Enable O W Overworld Night
+			Tooltip: ""
+		}
+
+		EnableOWCorruption: {
+			Label: Enable O W Corruption
+			Tooltip: ""
+		}
+
+		EnableOWCrimson: {
+			Label: Enable O W Crimson
+			Tooltip: ""
+		}
+
+		EnableOWDesert: {
+			Label: Enable O W Desert
+			Tooltip: ""
+		}
+
+		EnableOWDungeon: {
+			Label: Enable O W Dungeon
+			Tooltip: ""
+		}
+
+		EnableOWHallow: {
+			Label: Enable O W Hallow
+			Tooltip: ""
+		}
+
+		EnableOWIce: {
+			Label: Enable O W Ice
+			Tooltip: ""
+		}
+
+		EnableOWJungle: {
+			Label: Enable O W Jungle
+			Tooltip: ""
+		}
+
+		EnableOWMushrooms: {
+			Label: Enable O W Mushrooms
+			Tooltip: ""
+		}
+
+		EnableOWOcean: {
+			Label: Enable O W Ocean
+			Tooltip: ""
+		}
+
+		EnableOWSpace: {
+			Label: Enable O W Space
+			Tooltip: ""
+		}
+
+		EnableOWUnderground: {
+			Label: Enable O W Underground
+			Tooltip: ""
+		}
+
+		EnableOWUndergroundCorruption: {
+			Label: Enable O W Underground Corruption
+			Tooltip: ""
+		}
+
+		EnableOWUndergroundCrimson: {
+			Label: Enable O W Underground Crimson
+			Tooltip: ""
+		}
+
+		EnableOWUndergroundHallow: {
+			Label: Enable O W Underground Hallow
+			Tooltip: ""
+		}
+
+		EnableOWUndergroundIce: {
+			Label: Enable O W Underground Ice
+			Tooltip: ""
+		}
+
+		EnableOWUnderworld: {
+			Label: Enable O W Underworld
+			Tooltip: ""
+		}
+
+		EnableOWEerie: {
+			Label: Enable O W Eerie
+			Tooltip: ""
+		}
+
+		EnableOWInvasion: {
+			Label: Enable O W Invasion
+			Tooltip: ""
+		}
+
+		EnableOWLunarEvent: {
+			Label: Enable O W Lunar Event
+			Tooltip: ""
+		}
+
+		EnableOWRain: {
+			Label: Enable O W Rain
+			Tooltip: ""
+		}
+
+		EnableOWBoss1: {
+			Label: Enable O W Boss1
+			Tooltip: ""
+		}
+
+		EnableOWBoss2: {
+			Label: Enable O W Boss2
+			Tooltip: ""
+		}
+
+		EnableOWBoss3: {
+			Label: Enable O W Boss3
+			Tooltip: ""
+		}
+
+		EnableOWMoonLord: {
+			Label: Enable O W Moon Lord
+			Tooltip: ""
+		}
+
+		EnableOWPlantera: {
+			Label: Enable O W Plantera
+			Tooltip: ""
+		}
+
+		EnableOWCredits: {
+			Label: Enable O W Credits
 			Tooltip: ""
 		}
 	}
