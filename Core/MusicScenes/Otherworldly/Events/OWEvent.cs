@@ -9,7 +9,7 @@ namespace ArknightsModMusic.Core.MusicScenes.Otherworldly.Events
         public override string Path => MusicPath.Otherworldly.Events.Eerie;
         public override bool IsOtherworldly => true;
         public override bool IsEnabled => owConfig.EnableOWEerie;
-        public override int? ReplaceMusicId => MusicID.OtherworldlyEerie;
+        public override int? ReplaceMusicId => MusicID.OtherworldEerie;
         public override bool ReplaceCondition(Player player) => true;
     }
 
@@ -18,7 +18,7 @@ namespace ArknightsModMusic.Core.MusicScenes.Otherworldly.Events
         public override string Path => MusicPath.Otherworldly.Events.Invasion;
         public override bool IsOtherworldly => true;
         public override bool IsEnabled => owConfig.EnableOWInvasion;
-        public override int? ReplaceMusicId => MusicID.OtherworldlyInvasion;
+        public override int? ReplaceMusicId => MusicID.OtherworldInvasion;
         public override bool ReplaceCondition(Player player) => true;
     }
 
@@ -27,7 +27,7 @@ namespace ArknightsModMusic.Core.MusicScenes.Otherworldly.Events
         public override string Path => MusicPath.Otherworldly.Events.LunarEvent;
         public override bool IsOtherworldly => true;
         public override bool IsEnabled => owConfig.EnableOWLunarEvent;
-        public override int? ReplaceMusicId => MusicID.OtherworldlyTowers;
+        public override int? ReplaceMusicId => MusicID.OtherworldLunarPillars;
         public override bool ReplaceCondition(Player player) => true;
     }
 
@@ -36,7 +36,7 @@ namespace ArknightsModMusic.Core.MusicScenes.Otherworldly.Events
         public override string Path => MusicPath.Otherworldly.Events.Rain;
         public override bool IsOtherworldly => true;
         public override bool IsEnabled => owConfig.EnableOWRain;
-        public override int? ReplaceMusicId => MusicID.OtherworldlyRain;
+        public override int? ReplaceMusicId => MusicID.OtherworldRain;
         public override bool ReplaceCondition(Player player) => true;
     }
 }

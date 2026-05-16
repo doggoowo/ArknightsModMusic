@@ -9,7 +9,7 @@ namespace ArknightsModMusic.Core.MusicScenes.Otherworldly.Biomes
         public override string Path => MusicPath.Otherworldly.Biomes.Underground;
         public override bool IsOtherworldly => true;
         public override bool IsEnabled => owConfig.EnableOWUnderground;
-        public override int? ReplaceMusicId => MusicID.OtherworldlyUnderground;
+        public override int? ReplaceMusicId => MusicID.OtherworldUnderground;
         public override bool ReplaceCondition(Player player) => true;
     }
 
@@ -18,7 +18,7 @@ namespace ArknightsModMusic.Core.MusicScenes.Otherworldly.Biomes
         public override string Path => MusicPath.Otherworldly.Biomes.UndergroundCorruption;
         public override bool IsOtherworldly => true;
         public override bool IsEnabled => owConfig.EnableOWUndergroundCorruption;
-        public override int? ReplaceMusicId => MusicID.OtherworldlyUGCorrption;
+        public override int? ReplaceMusicId => MusicID.OtherworldUndergroundCorruption;
         public override bool ReplaceCondition(Player player) => true;
     }
 
@@ -27,7 +27,7 @@ namespace ArknightsModMusic.Core.MusicScenes.Otherworldly.Biomes
         public override string Path => MusicPath.Otherworldly.Biomes.UndergroundCrimson;
         public override bool IsOtherworldly => true;
         public override bool IsEnabled => owConfig.EnableOWUndergroundCrimson;
-        public override int? ReplaceMusicId => MusicID.OtherworldlyUGCrimson;
+        public override int? ReplaceMusicId => MusicID.OtherworldUndergroundCrimson;
         public override bool ReplaceCondition(Player player) => true;
     }
 
@@ -36,7 +36,7 @@ namespace ArknightsModMusic.Core.MusicScenes.Otherworldly.Biomes
         public override string Path => MusicPath.Otherworldly.Biomes.UndergroundHallow;
         public override bool IsOtherworldly => true;
         public override bool IsEnabled => owConfig.EnableOWUndergroundHallow;
-        public override int? ReplaceMusicId => MusicID.OtherworldlyUGHallow;
+        public override int? ReplaceMusicId => MusicID.OtherworldUndergroundHallow;
         public override bool ReplaceCondition(Player player) => true;
     }
 

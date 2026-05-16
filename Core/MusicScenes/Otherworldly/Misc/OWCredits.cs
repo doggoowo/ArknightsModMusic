@@ -8,7 +8,7 @@ namespace ArknightsModMusic.Core.MusicScenes.Otherworldly.Misc
         public override string Path => MusicPath.Otherworldly.Misc.Credits;
         public override bool IsOtherworldly => true;
         public override bool IsEnabled => owConfig.EnableOWCredits;
-        public override int? ReplaceMusicId => MusicID.Credits;
+        public override int? ReplaceMusicId => MusicID.JourneysEnd;
         public override bool ReplaceCondition(Player player) 
         {
             return IsUsingOtherworldlyMusic;

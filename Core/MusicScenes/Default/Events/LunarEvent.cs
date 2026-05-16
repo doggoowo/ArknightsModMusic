@@ -7,7 +7,7 @@ namespace ArknightsModMusic.Core.MusicScenes.Default.Events
     {
         public override string Path => MusicPath.Default.Events.LunarEvent;
         public override bool IsEnabled => config.EnableLunarEvent;
-        public override int? ReplaceMusicId => MusicID.LunarBoss;
+        public override int? ReplaceMusicId => MusicID.MoonLord;
         public override bool ReplaceCondition(Player player) => true;
     }
 }

@@ -24,7 +24,7 @@ namespace ArknightsModMusic.Core.MusicScenes.Default.Events
     {
         public override string Path => MusicPath.Default.Events.GoblinArmy;
         public override bool IsEnabled => config.EnableGoblinArmy;
-        public override int? ReplaceMusicId => MusicID.GoblinInvasion;
+        public override int? ReplaceMusicId => MusicID.GoblinArmy;
         public override bool ReplaceCondition(Player player) => true;
     }
 

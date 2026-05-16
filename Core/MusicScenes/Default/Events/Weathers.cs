@@ -31,7 +31,7 @@ namespace ArknightsModMusic.Core.MusicScenes.Default.Events
     {
         public override string Path => MusicPath.Default.Events.Storm;
         public override bool IsEnabled => config.EnableStorm;
-        public override int? ReplaceMusicId => MusicID.Monsoon;
+        public override int? ReplaceMusicId => MusicID.Storm;
         public override bool ReplaceCondition(Player player) => true;
     }
 

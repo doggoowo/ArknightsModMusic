@@ -9,7 +9,7 @@ namespace ArknightsModMusic.Core.MusicScenes.Otherworldly.Bosses
         public override string Path => MusicPath.Otherworldly.Bosses.Boss1;
         public override bool IsOtherworldly => true;
         public override bool IsEnabled => owConfig.EnableOWBoss1;
-        public override int? ReplaceMusicId => MusicID.OtherworldlyBoss1;
+        public override int? ReplaceMusicId => MusicID.OtherworldBoss1;
         public override bool ReplaceCondition(Player player) => true;
     }
 
@@ -18,7 +18,7 @@ namespace ArknightsModMusic.Core.MusicScenes.Otherworldly.Bosses
         public override string Path => MusicPath.Otherworldly.Bosses.Boss2;
         public override bool IsOtherworldly => true;
         public override bool IsEnabled => owConfig.EnableOWBoss2;
-        public override int? ReplaceMusicId => MusicID.OtherworldlyBoss2;
+        public override int? ReplaceMusicId => MusicID.OtherworldBoss2;
         public override bool ReplaceCondition(Player player) => true;
     }
     public class Music_OWBossWoF : MusicScene
@@ -26,7 +26,7 @@ namespace ArknightsModMusic.Core.MusicScenes.Otherworldly.Bosses
         public override string Path => MusicPath.Otherworldly.Bosses.Boss2;
         public override bool IsOtherworldly => true;
         public override bool IsEnabled => owConfig.EnableOWBoss2;
-        public override int? ReplaceMusicId => MusicID.OtherworldlyWoF;
+        public override int? ReplaceMusicId => MusicID.OtherworldWallOfFlesh;
         public override bool ReplaceCondition(Player player) => true;
     }
 
@@ -47,7 +47,7 @@ namespace ArknightsModMusic.Core.MusicScenes.Otherworldly.Bosses
         public override string Path => MusicPath.Otherworldly.Bosses.MoonLord;
         public override bool IsOtherworldly => true;
         public override bool IsEnabled => owConfig.EnableOWMoonLord;
-        public override int? ReplaceMusicId => MusicID.OtherworldlyLunarBoss;
+        public override int? ReplaceMusicId => MusicID.OtherworldMoonLord;
         public override bool ReplaceCondition(Player player) => true;
     }
 
@@ -56,7 +56,7 @@ namespace ArknightsModMusic.Core.MusicScenes.Otherworldly.Bosses
         public override string Path => MusicPath.Otherworldly.Bosses.Plantera;
         public override bool IsOtherworldly => true;
         public override bool IsEnabled => owConfig.EnableOWPlantera;
-        public override int? ReplaceMusicId => MusicID.OtherworldlyPlantera;
+        public override int? ReplaceMusicId => MusicID.OtherworldPlantera;
         public override bool ReplaceCondition(Player player) => true;
     }
 }

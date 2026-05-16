@@ -29,7 +29,7 @@ namespace ArknightsModMusic.Core.MusicScenes.Default.Misc
     {
         public override string Path => MusicPath.Default.Misc.TitleLegacy;
         public override bool IsEnabled => config.EnableTitleLegacy;
-        public override int? ReplaceMusicId => MusicID.Title;
+        public override int? ReplaceMusicId => MusicID.TitleClassic;
         public override bool ReplaceCondition(Player player)
         {
             return true;
@@ -39,7 +39,7 @@ namespace ArknightsModMusic.Core.MusicScenes.Default.Misc
     {
         public override string Path => MusicPath.Default.Misc.DrunkWorldGen;
         public override bool IsEnabled => config.EnableDrunkWorldGen;
-        public override int? ReplaceMusicId => MusicID.ConsoleMenu;
+        public override int? ReplaceMusicId => MusicID.TitleAlt;
         public override bool ReplaceCondition(Player player)
         {
             return true;

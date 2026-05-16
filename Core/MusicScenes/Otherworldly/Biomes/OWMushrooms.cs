@@ -8,7 +8,7 @@ namespace ArknightsModMusic.Core.MusicScenes.Otherworldly.Biomes
         public override string Path => MusicPath.Otherworldly.Biomes.Mushrooms;
         public override bool IsOtherworldly => true;
         public override bool IsEnabled => owConfig.EnableOWMushrooms;
-        public override int? ReplaceMusicId => MusicID.OtherworldlyMushrooms;
+        public override int? ReplaceMusicId => MusicID.OtherworldMushroom;
         public override bool ReplaceCondition(Player player) => true;
     }
 }

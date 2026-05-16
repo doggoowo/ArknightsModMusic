@@ -8,7 +8,7 @@ namespace ArknightsModMusic.Core.MusicScenes.Otherworldly.Biomes
         public override string Path => MusicPath.Otherworldly.Biomes.Space;
         public override bool IsOtherworldly => true;
         public override bool IsEnabled => owConfig.EnableOWSpace;
-        public override int? ReplaceMusicId => MusicID.OtherworldlySpace;
+        public override int? ReplaceMusicId => MusicID.OtherworldSpace;
         public override bool ReplaceCondition(Player player) => true;
     }
 }
