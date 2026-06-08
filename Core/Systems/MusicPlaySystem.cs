@@ -266,6 +266,10 @@ namespace ArknightsModMusic.Core.Systems
             var highest = activeScenes.OrderByDescending(s => s.Priority).First();
             if (highest == null || highest.TrackIds.Count == 0) return;
 
+            // 只在高优先级时覆盖，不要吞掉 ModNPC / ModSceneEffect 已经设好的音乐
+            if (highest.Priority <= modPriority)
+                return;
+
             int trackId = PickTrack(highest);
             modMusic = trackId;
             modPriority = highest.Priority;
