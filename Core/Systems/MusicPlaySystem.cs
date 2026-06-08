@@ -266,6 +266,10 @@ namespace ArknightsModMusic.Core.Systems
             var highest = activeScenes.OrderByDescending(s => s.Priority).First();
             if (highest == null || highest.TrackIds.Count == 0) return;
 
+            // 只在高优先级时覆盖，不要吞掉 ModNPC / ModSceneEffect 已经设好的音乐
+            if (highest.Priority <= modPriority)
+                return;
+
             int trackId = PickTrack(highest);
             modMusic = trackId;
             modPriority = highest.Priority;
@@ -309,7 +313,7 @@ namespace ArknightsModMusic.Core.Systems
             Main.newMusic = trackId;
             Main.curMusic = Main.newMusic;
 
-            // 那好啊，他特判我也特判
+            // 那好啊，他特判我也特判（对于主界面2）
             if (matchedScene.ReplaceMusicId == 51)
             {
                 Main.musicNoCrossFade[51] = false;
